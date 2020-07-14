@@ -29,6 +29,16 @@ Before getting started, let's make sure you have all the needed software install
 - A web browser
 
 
+
+## Installation
+
+To install all needed python packages in this Nanodegree, run the following command:
+```
+pip install -r requirements.txt
+```
+
+
+
 ## Non-technical Prerequisites
 I want to take a moment to talk about some of the "softer" requirements for being happy and successful in this course.
 
