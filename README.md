@@ -62,11 +62,8 @@ Sculpting out the time
 Spinning multiple plates? Are you balancing a family, other classes, travels, or a job at the same time? It helps to schedule and block out a regular time and place to commit to this course to finish it end to end. Take a moment to plan how to set aside the appropriate amount of time you'll need to engage with and commit to this course and the Nanodegree as a whole. Buffer more time than you think you need, and ensure you try to mitigate other obstacles to accomplishing the time you'll need to master the concepts in this course.
 
 Being proactive in your learning
-In addition to engaging with your Udacity mentor, other useful strategies include working with peer students in the course, getting live feedback in how ready you are to interview for a job with (free) resources like interviewing.io and leetcode, and checking out supplementary Udacity courses to fill in the blanks for your learning. Things we will cover less in this course include:
+In addition to engaging with your Udacity mentor, other useful strategies include working with peer students in the course, getting live feedback in how ready you are to interview for a job with (free) resources like interviewing.io and leetcode, and checking out supplementary Udacity courses to fill in the blanks for your learning.
 
-HTML, CSS, and Javascript
-Application Patterns
-Algorithms and Data Structures
 When self-studying, I like to find other peers who are on the same journey for social support and accountability, balancing my learning with multiple other resources, taking frequent breaks (see: the pomodoro method), studying in coffee shops and libraries (also see: coffeetivity), and so forth. Self studying is hard and you need to be in a distraction-free, good mood to get into a state of flow with it, so much like sleep hygiene, I recommend ensuring you're in a well set up environment to get yourself going. Exercise and good sleep help.
 
 This is a marathon, not a sprint.
