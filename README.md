@@ -44,10 +44,11 @@ I want to take a moment to talk about some of the "softer" requirements for bein
 
 Let's pause for a second and discuss some strategies to help you along your journey. We will cover:
 
-Having the right expectations
-Sculpting out the time
-Strategies for being proactive in your learning
-Having the right expectations
+- Having the right expectations
+- Sculpting out the time
+- Strategies for being proactive in your learning
+- Having the right expectations
+
 This will likely be your first introduction to many concepts in full stack development and probably also your first introduction to being a software engineer. How exciting! And so you may be wondering, how long does it take to learn these things?... Being a good software engineer is about being a good beginner -- all, the, time. It doesn't matter if you've been in software for 1 month, 1 year, or 10 years. The field is constantly changing, every concept contains a rabbit hole of many more concepts to follow, and the point is not to learn "everything" -- it is about scoping clearly what you want to build next. And then, having the foundations and learning strategies for knowing what you'll need to learn to build that next feature, or fix that next bug.
 
 The great oxymoron of mastering software is being aware of what you haven't mastered, but knowing how to learn them with time, for the rest of your career.
